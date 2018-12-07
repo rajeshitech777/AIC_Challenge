@@ -1,0 +1,11 @@
+RemoteSystemsTempFiles/*
+./*
+.metadata/*
+.recommenders/*
+*/bin/*
+*/.settings/*
+*/.project/*
+*/.classpath/*
+/.metadata/*
+*/target/*
+*/logs/*
